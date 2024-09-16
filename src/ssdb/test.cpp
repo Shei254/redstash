@@ -1,0 +1,43 @@
+/*
+Copyright (c) 2012-2014 The REDSTASH Authors. All rights reserved.
+Use of this source code is governed by a BSD-style license that can be
+found in the LICENSE file.
+*/
+#include <string>
+#include "redstash.h"
+#include "../util/log.h"
+#include "../util/config.h"
+
+int main(int argc, char **argv){
+	set_log_level(Logger::LEVEL_TRACE);
+	std::string work_dir = "./tmp/a";
+	Options opt;
+	opt.compression = "no";
+
+	REDSTASH *redstash = NULL;
+	redstash = REDSTASH::open(opt, work_dir);
+	if(!redstash){
+		log_fatal("could not open work_dir: %s", work_dir.c_str());
+		fprintf(stderr, "could not open work_dir: %s\n", work_dir.c_str());
+		exit(1);
+	}
+	std::string key, val;
+	key = "a";
+	
+	val.append(1024 * 1024, 'a');
+	redstash->raw_set("tmp", val);
+	redstash->compact();
+
+	uint64_t size;
+	size = redstash->size();
+	log_debug("dbsize: %d", size);
+
+
+	redstash->get(key, &val);
+	int num = str_to_int(val) + 1;
+	redstash->set(key, str(num));
+	redstash->get(key, &val);
+	
+	log_debug("%s", val.c_str());
+	delete redstash;
+}

@@ -8,9 +8,11 @@
     "\\src",
     "\\src\\client",
     "\\src\\net",
+    "\\src\\redstash",
     "\\src\\util",
-    "\\tools"
+    "\\tools",
+    "\\tools\\redstash_cli"
   ],
-  "SelectedNode": "\\redstash_slave.conf",
+  "SelectedNode": "\\src\\client\\hello-redstash.cpp",
   "PreviewInSolutionExplorer": false
 }

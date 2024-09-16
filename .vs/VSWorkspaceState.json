@@ -5,14 +5,8 @@
     "\\deps\\cpy",
     "\\deps\\cpy\\samples",
     "\\docs",
-    "\\src",
-    "\\src\\client",
-    "\\src\\net",
-    "\\src\\redstash",
-    "\\src\\util",
-    "\\tools",
-    "\\tools\\redstash_cli"
+    "\\src"
   ],
-  "SelectedNode": "\\src\\client\\hello-redstash.cpp",
+  "SelectedNode": "\\src\\proc_hash.cpp",
   "PreviewInSolutionExplorer": false
 }

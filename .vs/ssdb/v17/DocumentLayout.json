@@ -3,6 +3,30 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\ssdb\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\ssdb\\src\\redstash-server.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\redstash-server.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\ssdb\\src\\Makefile||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Makefile||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\ssdb\\src\\serv.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\serv.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\ssdb\\src\\redstash\\Makefile||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\redstash\\Makefile||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\ssdb\\src\\net\\server.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\net\\server.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\ssdb\\src\\net\\Makefile||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\net\\Makefile||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\ssdb\\src\\redstash\\ttl.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\redstash\\ttl.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -19,6 +43,80 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "redstash-server.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ssdb\\src\\redstash-server.cpp",
+              "RelativeDocumentMoniker": "src\\redstash-server.cpp",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ssdb\\src\\redstash-server.cpp",
+              "RelativeToolTip": "src\\redstash-server.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-16T19:12:05.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Makefile",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ssdb\\src\\Makefile",
+              "RelativeDocumentMoniker": "src\\Makefile",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ssdb\\src\\Makefile",
+              "RelativeToolTip": "src\\Makefile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-16T19:02:22.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "serv.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ssdb\\src\\serv.cpp",
+              "RelativeDocumentMoniker": "src\\serv.cpp",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ssdb\\src\\serv.cpp",
+              "RelativeToolTip": "src\\serv.cpp",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-16T19:02:08.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Makefile",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ssdb\\src\\redstash\\Makefile",
+              "RelativeDocumentMoniker": "src\\redstash\\Makefile",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ssdb\\src\\redstash\\Makefile",
+              "RelativeToolTip": "src\\redstash\\Makefile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-16T18:59:44.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Makefile",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ssdb\\src\\net\\Makefile",
+              "RelativeDocumentMoniker": "src\\net\\Makefile",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ssdb\\src\\net\\Makefile",
+              "RelativeToolTip": "src\\net\\Makefile",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-16T18:57:30.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "server.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ssdb\\src\\net\\server.cpp",
+              "RelativeDocumentMoniker": "src\\net\\server.cpp",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ssdb\\src\\net\\server.cpp",
+              "RelativeToolTip": "src\\net\\server.cpp",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAABIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-16T18:57:18.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "ttl.h",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ssdb\\src\\redstash\\ttl.h",
               "RelativeDocumentMoniker": "src\\redstash\\ttl.h",
@@ -26,8 +124,7 @@
               "RelativeToolTip": "src\\redstash\\ttl.h",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAAB0AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-09-16T18:17:56.304Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-16T18:17:56.304Z"
             }
           ]
         }

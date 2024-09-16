@@ -1,9 +1,4 @@
-*.lo
-*.libs
-*.deps
-*.la
 *.o
-Makefile
 config.h
 config.log
 config.status

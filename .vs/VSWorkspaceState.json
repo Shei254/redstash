@@ -1,9 +1,16 @@
 {
   "ExpandedNodes": [
     "",
+    "\\deps",
+    "\\deps\\cpy",
+    "\\deps\\cpy\\samples",
+    "\\docs",
     "\\src",
-    "\\src\\ssdb"
+    "\\src\\client",
+    "\\src\\net",
+    "\\src\\util",
+    "\\tools"
   ],
-  "SelectedNode": "\\src\\ssdb\\ttl.h",
+  "SelectedNode": "\\redstash_slave.conf",
   "PreviewInSolutionExplorer": false
 }
